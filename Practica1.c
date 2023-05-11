@@ -1,19 +1,10 @@
 /*
-Practica 1 de Paragdimas de programacion
+Ejercicio de laboratorio 1
+Paragdimas de programacion
+Delgado Acosta Luis Bernardo
+Grupo: 3BV2
 
-
-x 1- Tenga una función que genere un arreglo de números enteros aleatorios. 
-     a. El tamaño del arreglo será del al menos 1000 elementos.
-x 2- Tenga una función para imprimir el contenido de los arreglos. 
-x 3- Proporciona al menos una función de búsqueda secuencial. Ejemplifica la búsqueda para el arreglo del paso 1.
-x 4- Tenga una función que ordene el arreglo generado en el paso 1.  
-x 5- Ejemplifica la búsqueda con el arreglo resultante del paso 4.
-6-  Calcula el tiempo de ejecución de elementos 1 a 5.
-*/
-
-/*
-DELGADO ACOSTA LUIS BERNARDO
-GRUPO: 3BV2
+Atención: descargar el código quicksort.h
 
 */
 
