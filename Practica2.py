@@ -1,9 +1,8 @@
 """
+Ejercicio de laboratorio 2
 Paragdimas de programacion
-
 Delgado Acosta Luis Bernardo
 Grupo. 3BV2
-PRACTICA 3
 """
 
 ##definimos una funcion lambda que recibe x y suma n = 15
